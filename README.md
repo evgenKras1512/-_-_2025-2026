@@ -2,4 +2,4 @@
 Решение кейс "Безопастный маршрут" - команда ГБОУ Школы 2090 - «Инженерный бум»
 Посмотреть видео можно нажав на кнопку "Видео"
 
-[![Ссылка на видео](https://img.shields.io/badge/Видео-blue)](https://vk.com/video137532036_456239958)
+[![Ссылка на видео](https://img.shields.io/badge/Видео-blue)](https://rutube.ru/video/private/b70e4601ecc26938878b50ec2f4cfa99/?p=VhYk_GEsUdzM5QEd07OKUg)
